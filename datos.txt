@@ -1,1 +1,2 @@
 Un archivo untracked file (o archivo no rastreado) en Git es un archivo nuevo que existe en tu carpeta del proyecto pero que Git aún no registra en su historial de cambios
+Este archivo fue modificado desde GitHub.
